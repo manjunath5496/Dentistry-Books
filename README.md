@@ -151,11 +151,11 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(83).pdf" style="text-decoration:none;">Textbook of Preventive and Community Dentistry</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(84).pdf" style="text-decoration:none;">Therapeutic Ultrasound in Dentistry</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(85).pdf" style="text-decoration:none;">Walking among us: the alien plan to control humanity</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(86).pdf" style="text-decoration:none;">Alien Phenomenology, Or, What It's Like to be a Thing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(85).pdf" style="text-decoration:none;">Digital Dentistry: New Materials and Techniques</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(86).pdf" style="text-decoration:none;">Pharmacology and Therapeutics for Dentistry</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(87).pdf" style="text-decoration:none;">Extra-Planetary Experiences: Alien-Human Contact and the Expansion of Consciousness</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(88).pdf" style="text-decoration:none;">The Science of Star Wars: An Astrophysicist's Independent Examination of Space Travel, Aliens, Planets, and Robots as Portrayed in the Star Wars Films</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(87).pdf" style="text-decoration:none;">From scaffolds to endodontic sealers in dentistry: an in vitro and in vivo approach</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(88).pdf" style="text-decoration:none;"> Veterinary Dentistry for the General Practitioner</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(89).pdf" style="text-decoration:none;">Confessions of an Alien Hunter: A Scientist's Search for Extraterrestrial Intelligence</a></li>
   
   
