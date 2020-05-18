@@ -56,52 +56,52 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(30).pdf" style="text-decoration:none;">Influence of cleaning methods on resin bonding to saliva-contaminated zirconia.</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(31).pdf" style="text-decoration:none;">Dental Secrets</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(32).pdf" style="text-decoration:none;">The Keepers: An Alien Message for the Human Race</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(32).pdf" style="text-decoration:none;">Dentistry</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(33).pdf" style="text-decoration:none;">Top Secret Alien Abduction Files: What the Government Doesn't Want You to Know</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(33).pdf" style="text-decoration:none;">Dentistry, Dental Practice, and the Community</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(34).pdf" style="text-decoration:none;">Alien Skies: Planetary Atmospheres from Earth to Exoplanets</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(34).pdf" style="text-decoration:none;">Drug dictionary for dentistry</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(35).pdf" style="text-decoration:none;">Alienation and Freedom</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(35).pdf" style="text-decoration:none;">e-Health Care in Dentistry and Oral Medicine</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(36).pdf" style="text-decoration:none;">The High Strangeness of Dimensions, Densities, and the Process of Alien Abduction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(36).pdf" style="text-decoration:none;">EMQs for Dentistry</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(37).pdf" style="text-decoration:none;">Earth: An Alien Enterprise: The Shocking Truth Behind the Greatest Cover-Up in Human History</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(38).pdf" style="text-decoration:none;">Beyond Star Trek: physics from alien invasions to the end of time</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(39).pdf" style="text-decoration:none;">Disaster Movies: A Loud, Long, Explosive, Star-studded Guide to Avalanches, Earthquakes, Floods, Meteors, Sinking Ships, Twisters, Viruses, Killer ... Fallout, and Alien Attacks in the Cinema</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(40).pdf" style="text-decoration:none;">Scientific and Esoteric Encyclopedia of UFOs, Aliens and Extraterrestrial Gods: Volume I</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(41).pdf" style="text-decoration:none;">Close Encounters of the Fourth Kind</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(42).pdf" style="text-decoration:none;">Abducted: How People Come to Believe They Were Kidnapped by Aliens</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(37).pdf" style="text-decoration:none;">Essential Microbiology for Dentistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(38).pdf" style="text-decoration:none;">Essentials of Dentistry: Quick Review and Examination Preparat</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(39).pdf" style="text-decoration:none;">Evidence-Based Decision Making in Dentistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(40).pdf" style="text-decoration:none;">Evidence-Based Forensic Dentistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(41).pdf" style="text-decoration:none;">Forensic Dentistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(42).pdf" style="text-decoration:none;">Future of Dentistry</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(43).pdf" style="text-decoration:none;">The Alien Encyclopedia: Version 5</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(44).pdf" style="text-decoration:none;">Exoplanets: Finding, Exploring, and Understanding Alien Worlds</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(45).pdf" style="text-decoration:none;">Alien Landscapes? Interpreting Disordered Minds</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(43).pdf" style="text-decoration:none;">Fundamentals of Esthetic Implant Dentistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(44).pdf" style="text-decoration:none;">General Dentistry: August 2013 ~ Volume 61, Number 5 </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(45).pdf" style="text-decoration:none;">Geriatric Dentistry: Caring for Our Aging Population</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(46).pdf" style="text-decoration:none;">Aliens on the Moon</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(46).pdf" style="text-decoration:none;">Glass-Ionomers in Dentistry</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(47).pdf" style="text-decoration:none;">If the Universe Is Teeming with Aliens ... WHERE IS EVERYBODY?</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(48).pdf" style="text-decoration:none;">Bloodline of the Gods: Unravel the Mystery in the Human Blood Type to Reveal the Aliens Among Us</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(47).pdf" style="text-decoration:none;">Glossary of Implant Dentistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(48).pdf" style="text-decoration:none;">Handbook of Clinical Techniques in Pediatric Dentistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(49).pdf" style="text-decoration:none;">Alien Expedition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(49).pdf" style="text-decoration:none;">Hemostasis in Dentistry</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(50).pdf" style="text-decoration:none;">Alien Encounters: The Secret Behind The UFO Phenomenon</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(51).pdf" style="text-decoration:none;">Alien Base: The Evidence for Extraterrestrial Colonization of Earth</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(52).pdf" style="text-decoration:none;">Wizards, Aliens, and Starships: Physics and Math in Fantasy and Science Fiction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(50).pdf" style="text-decoration:none;">History of Dentistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(51).pdf" style="text-decoration:none;">Impression techniques for implant dentistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(52).pdf" style="text-decoration:none;">Introduction to Operative Dentistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(53).pdf" style="text-decoration:none;">The Boss from Outer Space and Other Aliens at Work</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(53).pdf" style="text-decoration:none;">Local Anaesthesia in Dentistry</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(54).pdf" style="text-decoration:none;">Inner Paths to Outer Space: Journeys to Alien Worlds through Psychedelics and Other Spiritual Technologies </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(54).pdf" style="text-decoration:none;">Updates in Restorative Dentistry </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(55).pdf" style="text-decoration:none;">The Eerie Silence: Are We Alone in the Universe?</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(55).pdf" style="text-decoration:none;">What are the Challenges, What are the Solutions - implant dentistry</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(56).pdf" style="text-decoration:none;">Connections: Solving Our Alien Abduction Mystery </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(56).pdf" style="text-decoration:none;">Manual For Operative Dentistry </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(57).pdf" style="text-decoration:none;">Science Facing Aliens: Proceedings of a Scientific Meeting on Invasive Alien Species </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(57).pdf" style="text-decoration:none;">MCQ in Implant Dentistry </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(58).pdf" style="text-decoration:none;">The Uninvited - An Expose of the Alien Abduction Phenomenon</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(59).pdf" style="text-decoration:none;">The Sagan Conspiracy: NASA's Untold Plot to Suppress The People's Scientist's Theory of Ancient Aliens</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(58).pdf" style="text-decoration:none;">Medically Speaking: A Dictionary of Quotations on Dentistry, Medicine and Nursing</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(59).pdf" style="text-decoration:none;">Microscopic Dentistry: A Practical Guide</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(60).pdf" style="text-decoration:none;">Captured! The Betty and Barney Hill UFO Experience: The True Story of the World's First Documented Alien Abduction </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(60).pdf" style="text-decoration:none;">Mineral Trioxide Aggregate in Dentistry </a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(61).pdf" style="text-decoration:none;">Alien Secrets: Alien Reading The Blue Planet Project Book!</a></li>
  
