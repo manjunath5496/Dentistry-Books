@@ -3,59 +3,59 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(1).pdf" style="text-decoration:none;">Alien Vision: Exploring the Electromagnetic Spectrum with Imaging Technology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(1).pdf" style="text-decoration:none;">3D Radiology in Dentistry</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(2).pdf" style="text-decoration:none;">The Search for Extraterrestrials: Intercepting Alien Signals</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(2).pdf" style="text-decoration:none;">Dentistry, Law, Medicine</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(3).pdf" style="text-decoration:none;">Wombs and Alien Spirits</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(4).pdf" style="text-decoration:none;">Alien Wisdom: The Limits of Hellenization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(5).pdf" style="text-decoration:none;">There Were Giants Upon the Earth: Gods, Demigods, and Human Ancestry: The Evidence of Alien DNA</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(6).pdf" style="text-decoration:none;">Secret History: Conspiracies from Ancient Aliens to the New World Order</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(7).pdf" style="text-decoration:none;">Dear Aliens... Love, NASA Secrets of the Wright Brothers Eyewitness SR-71 Crash</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(3).pdf" style="text-decoration:none;">Journal of Cosmetic Dentistry: Vol. 32, issue 1</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(4).pdf" style="text-decoration:none;">Primary Preventive Dentistry</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(5).pdf" style="text-decoration:none;">Leakage and Permeability Control in Dentistry: The Key for Success</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(6).pdf" style="text-decoration:none;">An Introduction To Pediatric Dentistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(7).pdf" style="text-decoration:none;">Esthetics in Dentistry</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(8).pdf" style="text-decoration:none;"> The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(9).pdf" style="text-decoration:none;">A history of the colonization of Africa by alien races</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(8).pdf" style="text-decoration:none;"> Principles of Equine Dentistry </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(9).pdf" style="text-decoration:none;">A Dictionary of Dentistry</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(10).pdf" style="text-decoration:none;">Abduction: Human Encounters with Aliens </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(11).pdf" style="text-decoration:none;">Alienation in Perversions</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(12).pdf" style="text-decoration:none;">The Hunt for Alien Life: A Wider Perspective</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(13).pdf" style="text-decoration:none;">Alien Encounters: Popular Culture in Asian America</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(10).pdf" style="text-decoration:none;">A Practical Guide to Hospital Dentistry </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(11).pdf" style="text-decoration:none;">A Practical Manual of Public Health Dentistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(12).pdf" style="text-decoration:none;"> Orthodontics - Accreditation Self Study</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(13).pdf" style="text-decoration:none;">Pediatric dentistry- Accreditation Self Study</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(14).pdf" style="text-decoration:none;">Answers of an Alien From Andromeda Galaxy 5 21 12 </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(14).pdf" style="text-decoration:none;">The Art and Science of Dentistry </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(15).pdf" style="text-decoration:none;">The Mammoth Encyclopedia of Extraterrestrial Encounters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(15).pdf" style="text-decoration:none;">Anatomical Variations in Clinical Dentistry</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(16).pdf" style="text-decoration:none;">Somebody Else Is on the Moon - In Search of Alien Artifacts</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(16).pdf" style="text-decoration:none;">Application of the Finite Element Method in Implant Dentistry</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(17).pdf" style="text-decoration:none;">The Human Rights of Aliens under International and Comparative Law</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(17).pdf" style="text-decoration:none;">Cosmetic Dentistry – aktuelle Trends</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(18).pdf" style="text-decoration:none;">Introduction to the Alien Races Book</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(18).pdf" style="text-decoration:none;">Basic Guide to Infection Prevention and Control in Dentistry</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(19).pdf" style="text-decoration:none;">Maria Orsic, Nikola Tesla, Their Extraterrestrials Messages, The Occult And UFOs</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(19).pdf" style="text-decoration:none;">Bates' Guide to Physical Examination and History Taking</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(20).pdf" style="text-decoration:none;">Barlowe's Guide to Extraterrestrials: Great Aliens from Science Fiction Literature</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(20).pdf" style="text-decoration:none;">Behavior Management in Dentistry for Children</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(21).pdf" style="text-decoration:none;">Aliens in America: Conspiracy Cultures from Outerspace to Cyberspace</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(22).pdf" style="text-decoration:none;">Biological Invasions: Economic and Environmental Costs of Alien Plant, Animal, and Microbe Species</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(23).pdf" style="text-decoration:none;">Blue Planet Project, Alien Life Forms</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(21).pdf" style="text-decoration:none;">Best of Fives for Dentistry</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(22).pdf" style="text-decoration:none;">Fiber Laser Applications In Dentistry</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(23).pdf" style="text-decoration:none;">Clinics And Diagnostic Of Periodontal Diseases</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(24).pdf" style="text-decoration:none;">Pentagon Aliens</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(24).pdf" style="text-decoration:none;">Clinical Cases in Restorative and Reconstructive Dentistry</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(25).pdf" style="text-decoration:none;">How to Defend Yourself Against Alien Abduction</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(26).pdf" style="text-decoration:none;">Alien Contact - The First Fifty Years</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(27).pdf" style="text-decoration:none;">Aliens Found in Waiting: Women of the Ku Klux Klan in Suburban Chicago, 1870-1930</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(25).pdf" style="text-decoration:none;">Clinical Guide to Principles of Fiber-Reinforced Composites in Dentistry</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(26).pdf" style="text-decoration:none;">Clinical Problem Solving in Orthodontics and Paediatric Dentistry</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(27).pdf" style="text-decoration:none;">Color Science in Dentistry</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(28).pdf" style="text-decoration:none;">Draw 50 Aliens: The Step-by-Step Way to Draw UFOs, Galaxy Ghouls, Milky Way Marauders, and Other Extraterrestrial Creatures</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(28).pdf" style="text-decoration:none;">Nerve Damage Related to Implant Dentistry</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(29).pdf" style="text-decoration:none;">Aliens and Man? A Synopsis of Facts and Beliefs</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(29).pdf" style="text-decoration:none;">Comprehensive Preventive Dentistry</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(30).pdf" style="text-decoration:none;">The Young Investigator's Guide to Ancient Aliens</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(30).pdf" style="text-decoration:none;">Influence of cleaning methods on resin bonding to saliva-contaminated zirconia.</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(31).pdf" style="text-decoration:none;">Ten Million Aliens: A journey through our strange planet</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(31).pdf" style="text-decoration:none;">Dental Secrets</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(32).pdf" style="text-decoration:none;">The Keepers: An Alien Message for the Human Race</a></li> 
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(33).pdf" style="text-decoration:none;">Top Secret Alien Abduction Files: What the Government Doesn't Want You to Know</a></li>                              
