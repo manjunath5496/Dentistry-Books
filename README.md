@@ -156,11 +156,16 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(87).pdf" style="text-decoration:none;">From scaffolds to endodontic sealers in dentistry: an in vitro and in vivo approach</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(88).pdf" style="text-decoration:none;"> Veterinary Dentistry for the General Practitioner</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(89).pdf" style="text-decoration:none;">Confessions of an Alien Hunter: A Scientist's Search for Extraterrestrial Intelligence</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(89).pdf" style="text-decoration:none;">Color Atlas of Dental Medicine</a></li>
   
   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(90).pdf" style="text-decoration:none;">From Alien to The Matrix</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(90).pdf" style="text-decoration:none;">Diagnosis and Treatment Planning in Dentistry</a></li>
   
-
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(91).pdf" style="text-decoration:none;">Diseases and Conditions in Dentistry</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(92).pdf" style="text-decoration:none;">Fundamentals of Implant Dentistry</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(93).pdf" style="text-decoration:none;">Lasers in Dentistry – Current Concepts</a></li>
  
  </ul>
