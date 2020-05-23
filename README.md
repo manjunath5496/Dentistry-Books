@@ -53,7 +53,7 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(29).pdf" style="text-decoration:none;">Comprehensive Preventive Dentistry</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(30).pdf" style="text-decoration:none;">Influence of cleaning methods on resin bonding to saliva-contaminated zirconia.</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(30).pdf" style="text-decoration:none;">Influence of cleaning methods on resin bonding to saliva-contaminated zirconia</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(31).pdf" style="text-decoration:none;">Dental Secrets</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Dentistry-Books/blob/master/dent(32).pdf" style="text-decoration:none;">Dentistry</a></li> 
